@@ -1,2 +1,0 @@
-# Animation_slider
- 
